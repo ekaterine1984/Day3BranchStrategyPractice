@@ -8,4 +8,6 @@ public class Hat {
 
     //added a line
 
+    //added another line
+
 }
